@@ -1,6 +1,6 @@
 [Voltar para o início](./index.md "Voltar para o início")
 
----***___
+---
 
 # Procedimento de Avaliação e Processamento
 O procedimento organiza-se em fases enumeradas a seguir:
@@ -23,6 +23,6 @@ O procedimento organiza-se em fases enumeradas a seguir:
 ## Da Formalização
 
 
----***___
+---
 
 [Voltar para o início](./index.md "Voltar para o início")
