@@ -9,10 +9,11 @@ O procedimento organiza-se em fases enumeradas a seguir:
 	1. Representação da Supervisão;
 	2. Denúncia da comunidade autorregulada;
 2. Notificação para contestação/justificação;
-3. Produção e/ou apresentação de provas;
-4. Julgamento;
-5. Recurso;
-6. Decisão Final;
+3. Recebimento/Rejeição;
+4. Produção e/ou apresentação de provas;
+5. Julgamento;
+6. Recurso;
+7. Decisão Final;
 
 ## Das Disposições Gerais
 * Todo o conteúdo apresentado e avaliado neste procedimento deve estar em formato digital;
