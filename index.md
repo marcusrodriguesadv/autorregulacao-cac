@@ -5,9 +5,9 @@ O modelo é aqui organizado da seguinte forma: adesão voluntária, privada e de
 
 1. Elaboração de Regras;
 2. Supervisão;
-3. Aplicação.
+3. Aplicação das Penalidades.
 
-## Das Regras
+## Da Elaboração Regras
 As regras elaboradas são formatadas em códigos que, necessariamente, são endereçados a um público ao qual se aplica, descrevem ou referenciam a forma de supervisão, a forma de avaliação e processamento de casos de descumprimento bem como as penalizações, condições agravantes e atenuantes e opcionalmente determinam termo da vigência com ou sem condição para aplicação ou suspensiva.
 
 ## Da Supervisão
