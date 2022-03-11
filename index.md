@@ -20,6 +20,7 @@ A aplicação das penalidades deve ser proporcional à violação, previamente c
 
 ### Avaliação e processamento
 Durante a avaliação e o processamento da suposta violação serão garantidos o contraditório e a ampla defesa e facultado ao imputado defender-se autonomamente ou assistido por Advogado.
+
 [Clique aqui para o Procedimento de Avaliação e Processamento](./procedimento.md "Procedimento de Avaliação e Processamento")
 
 

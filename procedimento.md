@@ -1,3 +1,7 @@
+[Voltar para o início](./index.md "Voltar para o início")
+
+---***___
+
 # Procedimento de Avaliação e Processamento
 O procedimento organiza-se em fases enumeradas a seguir:
 
@@ -17,3 +21,8 @@ O procedimento organiza-se em fases enumeradas a seguir:
 * Os procedimentos são em regra públicos podendo ser convertidos em sigilosos por decisão do Relator sobre pedido apresentado preliminarmente na FOrmalização.
 
 ## Da Formalização
+
+
+---***___
+
+[Voltar para o início](./index.md "Voltar para o início")
